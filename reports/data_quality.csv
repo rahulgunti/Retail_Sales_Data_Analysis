@@ -1,0 +1,14 @@
+Data quality check,Rows
+Rows loaded,1067371
+Exact duplicate rows removed,34335
+Rows after deduplication,1033036
+Rows with missing customer ID before sales filtering,235151
+Rows with missing customer ID (retained),228488
+Rows with missing product description (labeled),4275
+Rows with invalid/missing invoice date,0
+Rows with missing invoice number,0
+Cancellation/return rows excluded,22497
+Rows with invalid/missing quantity,0
+Rows with invalid/non-positive unit price,6019
+Rows excluded after deduplication (distinct),25123
+Valid sales rows analyzed,1007913

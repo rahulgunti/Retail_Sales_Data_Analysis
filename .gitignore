@@ -1,0 +1,15 @@
+# Dataset files may be large and are available from Kaggle.
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated analysis outputs.
+reports/*
+!reports/.gitkeep
+
+# Python artifacts and local environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
